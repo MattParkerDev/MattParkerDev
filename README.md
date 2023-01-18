@@ -1,6 +1,7 @@
 <h2 align="center">Hi there! My name is Matthew Parker 👋</h2>
 <p align="center">
     I'm a passionate software developer, focused on creating beautiful websites, functional backends and native iOS apps.<br/><br/>
+    Currently working on an ASP.NET Core Web API Server using Minimal API, EF Core to access an Azure PostgreSQL Database, ASP.NET Core Identity and SignalR Core deployed on Azure as the backend for a native iOS app.
 </p>
 
 <h3 align="center">Languages</h3>
