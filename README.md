@@ -1,7 +1,6 @@
 <h2 align="center">Hi there! My name is Matthew Parker 👋</h2>
 <p align="center">
-    I'm a passionate software developer, focused on creating beautiful websites and iOS apps.<br/><br/>
-    I'm currently working on my SoilClassifier-Blazor website written in C# using Blazor WebAssembly.
+    I'm a passionate software developer, focused on creating beautiful websites, functional backends and native iOS apps.<br/><br/>
 </p>
 
 <h3 align="center">Languages</h3>
