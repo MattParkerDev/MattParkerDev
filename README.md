@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
-<p align="center"><img alt="FakeRayBanz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FakeRayBanz&show_icons=true&hide_border=true&count_private=true&theme=react"></p>
+<p align="center"><img alt="MattParkerDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MattParkerDev&show_icons=true&hide_border=true&count_private=true&theme=react"></p>
 
 
 <!--
