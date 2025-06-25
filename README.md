@@ -1,6 +1,6 @@
 <h2 align="center">Hi there! I'm Matt Parker 👋</h2>
 <p align="center">
-    I work at <a href="https://github.com/SSWConsulting">SSW</a> as a Software Engineer, consistently striving to deliver exceptional enterprise software for our clients.
+    I work at <a href="https://arinco.com.au/">Arinco</a> as a Software Engineer, consistently striving to deliver exceptional enterprise software for our clients.
     <br><br>
     In my free time I enjoy working on personal projects and committing to open source repos :)
 </p>
